@@ -1,25 +1,13 @@
-# 👋 Hi there, I'm Sameer Varshney
+# 🎬 Netflix Clone (Frontend Only)
 
-🎓 I'm currently a 2nd year student at NIT Hamirpur, pursuing **Mathematics and Computing**.  
-💻 I'm passionate about **Web Development**, **Open Source**, and always exploring something new in tech.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** C, Python, JavaScript  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub  
-- Currently learning: React.js
+This is a **static clone** of the Netflix homepage built using only **HTML** and **CSS**. The goal of this project was to replicate the look and feel of Netflix's UI to practice layout design, and styling with pure frontend tools.
 
 ---
 
-## 🌟 Projects
+## 🔍 Features
 
-### 🎬 [Netflix Clone](https://github.com/sameervarshney03/netflixclone)
-A simple frontend-only clone of Netflix built with pure HTML & CSS .
-
-> ⚠️ Note: This is a static clone with no backend or authentication.
+- 🎨 Pixel-perfect design inspired by the real Netflix homepage    
+- 🧱 Built using only HTML5 and CSS3 (no frameworks or JS)  
 
 ---
 
