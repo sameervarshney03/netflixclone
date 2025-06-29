@@ -11,5 +11,9 @@ This is a **static clone** of the Netflix homepage built using only **HTML** and
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [View Live](https://sameervarshney03.github.io/netflixclone/) 
+
 
 
